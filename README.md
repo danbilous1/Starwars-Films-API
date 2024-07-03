@@ -1,3 +1,4 @@
-List of Starwars Films. 
+API List of Starwars Films.
+By clicking on the Film Name, Planet Names appear.
 
-ATTENTION. Can be some problems, because project was made with API.
+Warning. While using the project, might be some errors, because API can be outdated.
